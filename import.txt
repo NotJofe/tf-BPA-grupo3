@@ -3,6 +3,8 @@ numpy
 matplotlib
 scipy
 seaborn
-collections
-sklearn
 scikit-learn
+xgboost
+streamlit
+plotly
+altair
